@@ -1,0 +1,4 @@
+3,id,name,amount
+1 | John | 5
+2 | Mary | 3
+3 | Smith | 8
